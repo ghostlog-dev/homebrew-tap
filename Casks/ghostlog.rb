@@ -1,6 +1,6 @@
 cask "ghostlog" do
-  version "1.0.6"
-  sha256 "0471f66314140455f3603ed6f5e3f8311eb033229c545461e9afecc4dc92248f"
+  version "1.0.7"
+  sha256 "8e65c261994d9e50a88fe8fbb7b7a2080d1db4d755c23fd75b9baac2af11b74b"
 
   url "https://github.com/ghostlog-dev/ghostlog/releases/download/v#{version}/Ghostlog-v#{version}.dmg"
   name "Ghostlog"
